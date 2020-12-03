@@ -1,0 +1,17 @@
+.container {
+  margin: 0 10%
+}
+.top {
+  padding : 2% 0;
+  margin-bottom: 2%;
+  background-color: rgb(44, 43, 43);
+  text-align: center;
+}
+.list {
+  display:flex;
+  flex-wrap: wrap;
+}
+.carduser {
+  margin :0 0.5%;
+
+}
